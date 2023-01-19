@@ -23,4 +23,4 @@ I'm a Software Developer student at UNRaf (Argentina) learning frontend and a bi
 
 
 
-![pngegg]( width="40px" https://user-images.githubusercontent.com/63742394/213370574-763775bf-6422-4a4f-be80-c9e80690a395.png)
+![pngegg](https://user-images.githubusercontent.com/63742394/213370574-763775bf-6422-4a4f-be80-c9e80690a395.png%width=40)
