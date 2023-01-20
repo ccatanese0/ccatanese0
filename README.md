@@ -15,7 +15,7 @@ I'm Carlos Catanese, a Software Developer student at UNRaf (Argentina) learning 
 - 😄 Pronouns: he/him
 - ⚡ Hobbies: Learning (non-programming) languages, videogames, walking, music. 
 
-
+---
 
 ## Languages and tools ⌨
 
